@@ -1,0 +1,664 @@
+{
+  "heading": "Place Values and Numbers",
+  "topics": [
+    {
+      "heading": "Place Values and Numbers",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Five million, six hundred three thousand, and ninety-two is ________ than 5,603,920.",
+          "options": [
+            { "text": "equal to" },
+            { "text": "less than" },
+            { "text": "828 more" },
+            { "text": "None of these" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 2,
+          "question": "In the number 7,324,856, what is the value of the digit in the hundred place if you were to subtract 500 from it?",
+          "options": [
+            { "text": "8" },
+            { "text": "7" },
+            { "text": "6" },
+            { "text": "3" }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 3,
+          "question": "A bakery sells cookies in boxes of 8 and cakes in boxes of 12. What is the smallest number of each type of box the bakery needs to pack exactly the same number of cookies and cakes?",
+          "options": [
+            { "text": "3 boxes of cookies and 2 boxes of cakes" },
+            { "text": "4 boxes of cookies and 3 boxes of cakes" },
+            { "text": "2 boxes of cookies and 3 boxes of cakes" },
+            { "text": "3 boxes of cookies and 4 boxes of cakes" }
+          ],
+          "answer": 0,
+          "explanation": "LCM (8,12)= 24 => 24/8 = 3 boxes of cookies; 24/12= 2 boxes of cakes."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following numbers is NOT divisible by 6?",
+          "options": [
+            { "text": "11,016" },
+            { "text": "23,478" },
+            { "text": "31,254" },
+            { "text": "40,390" }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 5,
+          "question": "At a birthday party, the first child receives 4 smiley stickers, the second child receives 12 smiley stickers, the third child receives 36 smiley stickers, and the fourth child receives 108 smiley stickers. If this pattern continues, how many smiley stickers will the fifth child receive?",
+          "options": [
+            { "text": "216" },
+            { "text": "324" },
+            { "text": "432" },
+            { "text": "540" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Addition, Subtraction, Multiplication and Division",
+      "questions": [
+        {
+          "questionNo": 6,
+          "question": "What number should replace the __ to make this number sentence true?<BR> 3,721 + __ = 4,000 - 186.",
+          "options": [
+            { "text": "93" },
+            { "text": "465" },
+            { "text": "279" },
+            { "text": "651" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 7,
+          "question": "If a + b = 150 and a - b = 30, which of the following is true?",
+          "options": [
+            { "text": "a = 90 and b = 60" },
+            { "text": "a = 60 and b = 90" },
+            { "text": "a = 80 and b = 70" },
+            { "text": "a = 70 and b = 80" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 8,
+          "question": "A factory produces 1,248 toys each day. If they maintain this production rate, which of the following expressions will NOT give the correct number of toys produced in 365 days?",
+          "options": [
+            { "text": "(1,200 × 365) + (48 × 365)" },
+            { "text": "(1,000 × 365) + (200 × 365) + <br>(40 × 365) + (8 × 365)" },
+            { "text": "(1,248 × 300) + (1,248 × 60) + <br>(1,248 × 5)" },
+            { "text": "(1,248 × 400) - (1,248 × 45)" }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank to make this statement true: <BR>72 × 25 = 72 × (20 + ___) = (72 × 20) + (72 × ___)",
+          "options": [
+            { "text": "5" },
+            { "text": "10" },
+            { "text": "15" },
+            { "text": "25" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 10,
+          "question": "A bakery baked 312 cookies. They need to pack the cookies into boxes, with each box holding 8 cookies. How many full boxes can they pack, and how many cookies will be left unpacked?",
+          "options": [
+            { "text": "38 full boxes, 6 cookies left" },
+            { "text": "39 full boxes, 0 cookies left" },
+            { "text": "39 full boxes, 1 cookie left" },
+            { "text": "38 full boxes, 8 cookies left" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Decimal Numbers",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Arrange the following numbers in ascending order:<br> 0.75, <sup>4</sup>&frasl;<sub>5</sub>, 0.85, <sup>13</sup>&frasl;<sub>16</sub>.",
+          "options": [
+            { "text": "","image":"./assests/images/option/1.jpg" },
+            { "text": "","image":"./assests/images/option/2.jpg" },
+            { "text": "","image":"./assests/images/option/3.jpg" },
+            { "text": "","image":"./assests/images/option/4.jpg" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 12,
+          "question": "What is the value of the digit 7 in the number 43.0175?",
+          "options": [
+            { "text": "7 thousandths" },
+            { "text": "7 hundredths" },
+            { "text": "7 tenths" },
+            { "text": "7 ten-thousandths" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 13,
+          "question": "Sarah is making a fruit punch for a party. She needs 3.75 liters in total. She has already mixed 1.5 liters of orange juice, 0.8 liters of pineapple juice, and 0.95 liters of apple juice. How much more liquid does she need to add to complete her punch?",
+          "options": [
+            { "text": "0.5 liters" },
+            { "text": "0.55 liters" },
+            { "text": "0.45 liters" },
+            { "text": "0.6 liters" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 14,
+          "question": "A local charity raised $1,258.75 last month. This month, they want to raise enough money to have a total of $3,000 for the two months combined. Their first fundraiser this month collected $876.50. About how much more do they need to raise to reach their goal?",
+          "options": [
+            { "text": "$860" },
+            { "text": "$864.75" },
+            { "text": "$860.75" },
+            { "text": "$950" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 15,
+          "question": "Which sign makes the below equation true:<BR> 5 x 0.4 ___ 0.21?",
+          "options": [
+            { "text": "<" },
+            { "text": ">" },
+            { "text": "=" },
+            { "text": "–" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Fractions and Mixed Numbers",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "Which fraction is equivalent to <sup>1</sup>&frasl;<sub>2</sub>?",
+          "options": [
+            { "text": "<sup>2</sup>&frasl;<sub>3</sub>" },
+            { "text": "<sup>2</sup>&frasl;<sub>4</sub>" },
+            { "text": "<sup>3</sup>&frasl;<sub>6</sub>" },
+            { "text": "Both B and C" }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 17,
+          "question": "If you have <sup>3</sup>&frasl;<sub>5</sub> and want to subtract <sup>1</sup>&frasl;<sub>5</sub>, what is the correct way to do it?",
+          "options": [
+            { "text": "","image":"./assests/images/option/5.jpg" },
+            { "text": "","image":"./assests/images/option/6.jpg" },
+            { "text": "","image":"./assests/images/option/7.jpg" },
+            { "text": "","image":"./assests/images/option/8.jpg" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 18,
+          "question": "If you have <sup>1</sup>&frasl;<sub>2</sub> and <sup>1</sup>&frasl;<sub>3</sub>, which of the following is the correct way to add them?",
+          "options": [
+            { "text": "","image":"./assests/images/option/9.jpg" },
+            { "text": "","image":"./assests/images/option/10.jpg" },
+            { "text": "","image":"./assests/images/option/11.jpg" },
+            { "text": "","image":"./assests/images/option/12.jpg" }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 19,
+          "question": "A recipe calls for <sup>2</sup>&frasl;<sub>3</sub> cup of sugar, but you want to make only half of the recipe. How much sugar should you use?",
+          "options": [
+            { "text": "<sup>1</sup>&frasl;<sub>6</sub> cup" },
+            { "text": "<sup>1</sup>&frasl;<sub>3</sub> cup" },
+            { "text": "<sup>1</sup>&frasl;<sub>4</sub> cup" },
+            { "text": "<sup>1</sup>&frasl;<sub>2</sub> cup" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 20,
+          "question": "A tank is filled with <sup>3</sup>&frasl;<sub>4</sub> of its capacity. If <sup>2</sup>&frasl;<sub>5</sub> of the water is drained from the tank, how much water remains?",
+          "options": [
+            { "text": "<sup>2</sup>&frasl;<sub>5</sub> of the tank" },
+            { "text": "<sup>7</sup>&frasl;<sub>20</sub> of the tank" },
+            { "text": "<sup>3</sup>&frasl;<sub>20</sub> of the tank" },
+            { "text": "<sup>6</sup>&frasl;<sub>15</sub> of the tank" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Percents",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "The image shows a grid divided into 30 equal parts, with 12 parts shaded. What percentage is illustrated?<br><img width='50%' src='./assests/images/question/4.png'>",
+          "options": [
+            { "text": "40%" },
+            { "text": "50%" },
+            { "text": "60%" },
+            { "text": "70%" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 22,
+          "question": "Which of the following is the decimal equivalent of 45%?",
+          "options": [
+            { "text": "0.45" },
+            { "text": "4.5" },
+            { "text": "0.055" },
+            { "text": "0.145" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 23,
+          "question": "Which of the following fractions can be represented as 75% using a grid model?",
+          "options": [
+            { "text": "3/4" },
+            { "text": "1/4" },
+            { "text": "2/3" },
+            { "text": "3/5" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Money",
+      "questions": [
+        {
+          "questionNo": 24,
+          "question": "A store is selling a new laptop for $599.99. If the sales tax is 7.5%, what is the price after tax?",
+          "options": [
+            { "text": "$643.99" },
+            { "text": "$649.49" },
+            { "text": "$654.99" },
+            { "text": "$659.99" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 25,
+          "question": "If 5 mango ice lollies cost $0.90 and the price of each ice lolly is the same, how much does each ice lolly cost?",
+          "options": [
+            { "text": "$0.16" },
+            { "text": "$0.17" },
+            { "text": "$0.18" },
+            { "text": "$0.15" }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 26,
+          "question": "James receives a weekly allowance. Each week, he spends $8 on books, saves $10 for a new video game, and donates the remaining $5 to charity. How much is James's weekly allowance?",
+          "options": [
+            { "text": "$18" },
+            { "text": "$20" },
+            { "text": "$23" },
+            { "text": "$25" }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 27,
+          "question": "This table shows Craig's January budget. How much money can Craig spend on film tickets to keep his budget balanced?<br><img width='70%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "A = 155, B = 50, C = 155" },
+            { "text": "A = 145, B = 50, C = 145" },
+            { "text": "A = 155, B = 60, C = 155" },
+            { "text": "A = 135, B = 40, C = 135" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Coordinate Plane",
+      "questions": [
+        {
+          "questionNo": 28,
+          "question": "What is the y-coordinate of the red pentagon?<br><img width='60%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "8" },
+            { "text": "1" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 29,
+          "question": "What is the x-coordinate of the purple heart?<br><img width='60%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "8" },
+            { "text": "1" }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Algebra",
+      "questions": [
+        {
+          "questionNo": 30,
+          "question": "Solve x + 25 = 63 for x.",
+          "options": [
+            { "text": "38" },
+            { "text": "28" },
+            { "text": "25" },
+            { "text": "45" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 31,
+          "question": "Solve for n:<br> n - 72 = 31.",
+          "options": [
+            { "text": "103" },
+            { "text": "93" },
+            { "text": "82" },
+            { "text": "41" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 32,
+          "question": "Simplify the expression:<br> 3(2x + 5) - 4(x - 2). What is the simplified result?",
+          "options": [
+            { "text": "2x + 23" },
+            { "text": "2x + 18" },
+            { "text": "5x + 23" },
+            { "text": "2x + 19" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 33,
+          "question": "A bakery sells cupcakes for $1 each and cookies for $0.50 each. If a customer buys 4 cupcakes and 6 cookies, how much will they have to pay in total?",
+          "options": [
+            { "text": "$4.50" },
+            { "text": "$6.00" },
+            { "text": "$7.00" },
+            { "text": "$8.00" }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 34,
+          "question": "A teacher has 24 stickers to distribute among her 5 students. If each student should receive the same number of stickers, with any remaining stickers kept by the teacher, how many stickers will the teacher have left?",
+          "options": [
+            { "text": "4" },
+            { "text": "3" },
+            { "text": "2" },
+            { "text": "1" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Probability and Statistics",
+      "questions": [
+        {
+          "questionNo": 35,
+          "question": "Samantha is organizing her weekend. In the morning, she can go jogging, visit the park, or read a book. For lunch, she can eat pizza, salad, sushi, or pasta. In the afternoon, she can watch a movie, attend a yoga class, or visit a museum. Based on these options, how many different combinations of activities does Samantha have to choose from?",
+          "options": [
+            { "text": "24" },
+            { "text": "36" },
+            { "text": "18" },
+            { "text": "12" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 36,
+          "question": "The number of books students read during the summer is recorded as follows:<br> 4, 2, 3, 5, 3, 6, 3, 2, 4, 5, 2, 3, 6. <br>What is the mode of the data set?",
+          "options": [
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 37,
+          "question": "According to the graph, which month has the highest average monthly rainfall in Seattle?<br><img width='70%' src='./assests/images/question/3.png'>",
+          "options": [
+            { "text": "April" },
+            { "text": "July" },
+            { "text": "October" },
+            { "text": "November" }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 38,
+          "question": "What is the total monthly rainfall in Seattle during the month of June and July?<br><img width='70%' src='./assests/images/question/3.png'>",
+          "options": [
+            { "text": "1 inch" },
+            { "text": "2 inches" },
+            { "text": "3 inches" },
+            { "text": "4 inches" }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Time and Units of Measurement",
+      "questions": [
+        {
+          "questionNo": 39,
+          "question": "A rectangular swimming pool measures 25 meters in length, 10 meters in width, and 2 meters in depth. How many liters of water are needed to completely fill the pool?",
+          "options": [
+            { "text": "50,000 liters" },
+            { "text": "500,000 liters" },
+            { "text": "250,000 liters" },
+            { "text": "5,000 liters" }
+          ],
+          "answer": 1,
+          "explanation": "Volume = length × width × depth = 25m × 10m × 2m = 500,000 liters."
+        },
+        {
+          "questionNo": 40,
+          "question": "Which is heavier: 3 kilograms of apples or 2500 grams of oranges?",
+          "options": [
+            { "text": "3 kilograms of apples" },
+            { "text": "2500 grams of oranges" },
+            { "text": "They weigh the same" },
+            { "text": "Cannot be determined" }
+          ],
+          "answer": 0,
+          "explanation": "3 kilograms = 3000 grams, which is heavier."
+        },
+        {
+          "questionNo": 41,
+          "question": "Adriana is going camping with her family. They need to drive to the campground, set up the campsite, and cook dinner before sunset. Sunset is at 7:00 P.M. It will take 1 hour and 30 minutes to drive to the campground, 30 minutes to set up, and 30 minutes to cook dinner. What is the latest time Adriana's family can leave for the campground?",
+          "options": [
+            { "text": "8:00 P.M." },
+            { "text": "4:30 P.M." },
+            { "text": "7:30 P.M." },
+            { "text": "6:00 P.M." }
+          ],
+          "answer": 1,
+          "explanation": "Total time needed = 1h 30m + 30m + 30m = 2h 30m. Latest departure = 7:00 P.M. - 2h 30m = 4:30 P.M."
+        },
+        {
+          "questionNo": 42,
+          "question": "If a movie starts at 6:30 PM and ends at 9:15 PM, how long is the movie?",
+          "options": [
+            { "text": "2 hours 15 minutes" },
+            { "text": "2 hours 45 minutes" },
+            { "text": "3 hours" },
+            { "text": "3 hours 15 minutes" }
+          ],
+          "answer": 1,
+          "explanation": "Duration = 9:15 PM - 6:30 PM = 2 hours 45 minutes."
+        }
+      ]
+    },
+    {
+      "heading": "Geometry",
+      "questions": [
+        {
+          "questionNo": 43,
+          "question": "How many more sides does a nonagon have than a hexagon?",
+          "options": [
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" }
+          ],
+          "answer": 1,
+          "explanation": "Nonagon has 9 sides and hexagon has 6 sides. 9 - 6 = 3."
+        },
+        {
+          "questionNo": 44,
+          "question": "Count the number of edges in the below figure:<br><img width='50%' src='./assests/images/question/5.png'>",
+          "options": [
+            { "text": "8" },
+            { "text": "12" },
+            { "text": "16" },
+            { "text": "10" }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 45,
+          "question": "Does the figure given below have a line of symmetry?<br><img width='50%' src='./assests/images/question/6.png'>",
+          "options": [
+            { "text": "Yes" },
+            { "text": "No" },
+            { "text": "Can't be Determined" },
+            { "text": "None of the Above" }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },{
+          "questionNo": 46,
+          "question": "What is the area of the figure given below?<br><img width='70%' src='./assests/images/question/7.png'>",
+          "options": [
+            { "text": "123 cm²" },
+            { "text": "133 cm²" },
+            { "text": "40 cm²" },
+            { "text": "85 cm²" }
+          ],
+          "answer": 1,
+          "explanation": "The area calculated is 133 cm²."
+        },
+        {
+          "questionNo": 47,
+          "question": "A rectangular box has a length of 4 meters, a width of 3 meters, and a height of 2 meters. What is the volume of the box?",
+          "options": [
+            { "text": "12 cubic meters" },
+            { "text": "20 cubic meters" },
+            { "text": "24 cubic meters" },
+            { "text": "30 cubic meters" }
+          ],
+          "answer": 2,
+          "explanation": "Volume is found by multiplying length, width, and height: 4 × 3 × 2 = 24 cubic meters."
+        }
+      ]
+    },
+    {
+      "heading": "Logical Reasoning",
+      "questions": [
+        {
+          "questionNo": 48,
+          "question": "If Amy is taller than Bob, and Bob is taller than Charlie, but Charlie is shorter than David, who is the shortest?",
+          "options": [
+            { "text": "Amy" },
+            { "text": "Bob" },
+            { "text": "Charlie" },
+            { "text": "David" }
+          ],
+          "answer": 2,
+          "explanation": "Since Charlie is shorter than both Bob and David, Charlie is the shortest."
+        },
+        {
+          "questionNo": 49,
+          "question": "Jane has 4 more marbles than Mike. If Mike gives 2 marbles to Jane, she will have twice as many marbles as Mike. How many marbles does Jane currently have?",
+          "options": [
+            { "text": "6" },
+            { "text": "8" },
+            { "text": "10" },
+            { "text": "14" }
+          ],
+          "answer": 3,
+          "explanation": "Let Mike have M marbles. Then Jane has M + 4. After giving 2 marbles, Jane has M + 6, and Mike has M - 2. The equation is M + 6 = 2(M - 2). Solving gives M = 4, so Jane has 8 marbles."
+        },
+        {
+          "questionNo": 50,
+          "question": "What is the next number in this sequence: <br>1, 1, 2, 4, 7, 11, __",
+          "options": [
+            { "text": "18" },
+            { "text": "17" },
+            { "text": "16" },
+            { "text": "20" }
+          ],
+          "answer": 2,
+          "explanation": "The pattern adds the increasing integers: +0, +1, +2, +3, +4, +5. Thus, 11 + 5 = 16."
+        }
+      ]
+    }
+  ]
+}
